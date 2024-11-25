@@ -10,7 +10,7 @@ Steps:
       * selenium
       * langdetect
 
-2. You also need to download chrome driver:  https://sites.google.com/a/chromium.org/chromedriver/
+2. You also need to download chrome driver:  https://developer.chrome.com/docs/chromedriver/downloads
 
 3. Add the chrome driver to the PATH variable: export PATH=$PATH:/path-to-chormedriver-directory/
 
